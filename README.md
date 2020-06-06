@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=zS63gjg1Yzs
 
 ## **Despliegue en Heroku**
 
-[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://tetris-combat.herokuapp.com/)
+[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://tetris-combat2.herokuapp.com/)
 
-**Enlace:** [`tetris-combat.herokuapp.com`](https://tetris-combat.herokuapp.com/)
+**Enlace:** [`tetris-combat2.herokuapp.com`](https://tetris-combat2.herokuapp.com/)
 
 ## **Resumen**
 
